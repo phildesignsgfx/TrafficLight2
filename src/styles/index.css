@@ -25,8 +25,7 @@ border-radius: 15px 50px;
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    Background-color:rgb(220, 34, 34);
-    
+    Background-color: blue (220, 34, 34);
     padding: 75px;
     
     
@@ -45,6 +44,6 @@ border-radius: 15px 50px;
 }
 
 .glow{
-    box-shadow: 0px 0px 9px 4px #ffffff;
+    box-shadow: 0px 0px 9px 4px rgb(214, 214, 226);
 
 }
